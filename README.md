@@ -141,8 +141,4 @@ For inquiries or collaboration opportunities, feel free to connect with me on [L
 - **Product Development**: Streamlit dashboards, Flask apps, and interactive tools for fan engagement.  
 - **Cricket Knowledge**: Tactical analysis, match context evaluation, player ranking systems.  
 
-This portfolio reflects my passion for cricket and data, aligning with **CricViz's mission to leverage data for fan engagement and business growth**.
-
----
-
-Let me know if you'd like me to tweak or refine anything further! 😊
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">PitchMap of Powerplay Wickets taken by Mohammed Siraj &amp; Mohammed Shami in IPL 2023 <br>Consistently 🎯 BOL<a href="https://twitter.com/mdsirajofficial?ref_src=twsrc%5Etfw">@mdsirajofficial</a> <a href="https://twitter.com/MdShami11?ref_src=twsrc%5Etfw">@MdShami11</a> <a href="https://twitter.com/CoversoffAI?ref_src=twsrc%5Etfw">@CoversoffAI</a> <a href="https://t.co/nIBJ42Ek3m">pic.twitter.com/nIBJ42Ek3m</a></p>&mdash; Raviteja Rajavarapu 🜃 (@RajavarapuRavi) <a href="https://twitter.com/RajavarapuRavi/status/1654728322709069824?ref_src=twsrc%5Etfw">May 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
