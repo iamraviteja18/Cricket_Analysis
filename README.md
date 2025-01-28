@@ -1,5 +1,3 @@
-Here’s a **tailored GitHub README file** draft for your Cricket Analytics Portfolio that aligns with the CricViz job description, showcasing your work as a data scientist in cricket analytics.
-
 ---
 
 # 🏏 **Cricket Analytics Portfolio**
