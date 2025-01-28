@@ -88,6 +88,39 @@ Used **Hawk-Eye data** to analyze ball tracking, focusing on **bowling lengths, 
 ---
 
 ## **5. Khiladi Index - Player Performance Ranking**
+<div align="center">
+  <h2>Khiladi IPL Index - Player Performance Visuals</h2>
+  <div id="carousel">
+    <img id="carousel-image" src="assets/12K_1.jpeg" width="600px">
+    <div>
+      <button onclick="prevImage()">&#9665; Prev</button>
+      <button onclick="nextImage()">Next &#9655;</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  let images = [
+    "assets/12K_1.jpeg",
+    "assets/12K_2.jpeg",
+    "assets/12K_3.jpeg",
+    "assets/12K_4.jpeg"
+  ];
+  
+  let index = 0;
+  
+  function nextImage() {
+    index = (index + 1) % images.length;
+    document.getElementById("carousel-image").src = images[index];
+  }
+  
+  function prevImage() {
+    index = (index - 1 + images.length) % images.length;
+    document.getElementById("carousel-image").src = images[index];
+  }
+  
+  setInterval(nextImage, 3000); // Change image every 3 seconds
+</script>
 
 **Description**:  
 Designed a ranking system for IPL players using **historical and real-time data**. This index evaluated performance based on match context, strike rates, and economy rates.
