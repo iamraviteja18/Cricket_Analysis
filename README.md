@@ -88,23 +88,15 @@ Used **Hawk-Eye data** to analyze ball tracking, focusing on **bowling lengths, 
 ---
 
 ## **5. Khiladi Index - Player Performance Ranking**
-<p align="center">
-  <img src="assets/12K_1.jpeg" width="250">
-  <img src="assets/12K_2.jpeg" width="250">
-</p>
-<p align="center">
-  <img src="assets/12K_3.jpeg" width="250">
-  <img src="assets/12K_4.jpeg" width="250">
-</p>
 
 <table>
   <tr>
-    <td><img src="assets/12K_1.jpeg" width="500"></td>
-    <td><img src="assets/12K_2.jpeg" width="500"></td>
+    <td><img src="assets/12K_1.jpeg" width="450"></td>
+    <td><img src="assets/12K_2.jpeg" width="450"></td>
   </tr>
   <tr>
-    <td><img src="assets/12K_3.jpeg" width="500"></td>
-    <td><img src="assets/12K_4.jpeg" width="500"></td>
+    <td><img src="assets/12K_3.jpeg" width="450"></td>
+    <td><img src="assets/12K_4.jpeg" width="450"></td>
   </tr>
 </table>
 **Description**:  
