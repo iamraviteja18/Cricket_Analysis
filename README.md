@@ -135,6 +135,7 @@ Player profile analysis for **The Hundred (Men's & Women's), BBL, PSL, SAT20** t
     <td><img src="assets/12K_4.jpeg" width="450"></td>
   </tr>
 </table>
+
 **Description**:  
 Designed a ranking system for IPL players using **historical and real-time data**. This index evaluated performance based on match context, strike rates, and economy rates.
 
