@@ -70,6 +70,18 @@ Used **Hawk-Eye data** to analyze ball tracking, focusing on **bowling lengths, 
 **Description**:  
 An interactive dashboard that provides **in-depth player profiles for IPL 2024**, covering key performance metrics, impact ratings, and matchup insights.
 
+<table>
+  <tr>
+    <td><img src="assets/IPL_Profile_0.png" width="450"></td>
+    <td><img src="assets/IPL_Profile_1.png" width="450"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/IPL_Profile_2.png" width="450"></td>
+    <td><img src="assets/IPL_Profile_3.png" width="450"></td>
+  </tr>
+  
+</table>
+
 **Link**:  
 - [IPL Player Profile 2024 Dashboard](https://statsappipl2024.streamlit.app/?embed_options=light_theme)  
 
