@@ -55,7 +55,7 @@ Used **Hawk-Eye data** to analyze ball tracking, focusing on **bowling lengths, 
 <img src="assets/Pitch_map.jpeg" alt="PitchMap" width="400" height="600"> 
 
 - Runs scored vs Ball speeds - Faf du Plessis
-<img src="assets/batter_vs_speeds.png" alt="Runs vs Ball Speeds" width="400">
+<img src="assets/batter_vs_speeds.png" alt="Runs vs Ball Speeds" width="500" height="500">
 
 **Tweets**:  
 - [PitchMap of Powerplay Wickets in IPL 2023](https://x.com/RajavarapuRavi/status/1654728322709069824?t=uSPlLA4Q_I3R2HH9Pkd0-Q&s=19)  
@@ -137,11 +137,11 @@ Player profile analysis for **The Hundred (Men's & Women's), BBL, PSL, SAT20** t
 </table>
 
 **Description**:  
-Designed a ranking system for IPL players using **historical and real-time data**. This index evaluated performance based on match context, strike rates, and economy rates.
+Built Khiladi Index which gives comprehensive idea about Players like Matchups in the IPL for Batters and Bowlers.
 
 **Highlights**:
 - Developed filters for dynamic matchups (e.g., batter vs. left-arm pace).  
-- Ranked players based on performance under pressure.
+- Identified key weaknesses for players and their matchups.
 ---
 
 ## **7. T20 World Cup 2022 Analysis**
@@ -172,7 +172,7 @@ A detailed analysis of the **T20 World Cup 2022**, covering **batting trends, bo
 ## **8. My IPL Predictions App**
 
 **Description**:  
-Built an **interactive app** to predict **IPL match outcomes** using machine learning models.
+Built an **interactive app** to predict **IPL match outcomes** using machine learning models and stats.
 
 **Tweets/Link**:   
 - [IPL Predictions App](https://x.com/RajavarapuRavi/status/1490228304430833669?t=LyK6L686KVTPnrjd1UisWQ&s=19)
