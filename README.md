@@ -150,6 +150,21 @@ Designed a ranking system for IPL players using **historical and real-time data*
 **Description**:  
 A detailed analysis of the **T20 World Cup 2022**, covering **batting trends, bowling strategies, and team performance**.
 
+<table>
+  <tr>
+    <td><img src="assets/t20_wc_1.jpeg" width="450"></td>
+    <td><img src="assets/t20_wc_2.jpeg" width="450"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/t20_wc_3.jpeg" width="450"></td>
+    <td><img src="assets/t20_wc_5.jpeg" width="450"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/t20_wc_6.jpeg" width="450"></td>
+    <td><img src="assets/t20_wc_7.jpeg" width="450"></td>
+  </tr>
+</table>
+
 **Links**:  
 - [T20 World Cup Thread](https://x.com/RajavarapuRavi/status/1594370747245346816?t=yBSiUUKVEyvnqZcT2LHCUQ&s=19)  
 
