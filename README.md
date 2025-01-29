@@ -9,13 +9,14 @@ Whether it’s creating **interactive dashboards**, analyzing **player performan
 ---
 
 ## **Table of Contents**
-1. [ODI World Cup - Player Matchup Analysis](#1-odi-world-cup---player-matchup-analysis)  
-2. [IPL Player Impact Analysis](#2-ipl-player-impact-analysis)  
-3. [Venue Performance Analysis](#3-venue-performance-analysis)  
-4. [Hawk-Eye Data Analysis](#4-hawk-eye-data-analysis)  
-5. [Khiladi Index - Player Performance Ranking](#5-khiladi-index---player-performance-ranking)  
-6. [My IPL Predictions App](#6-my-ipl-predictions-app)  
-7. [T20 World Cup 2022 Analysis Thread](#7-t20-world-cup-2022-analysis-thread)  
+1. [IPL Impact Player Analysis](#1-ipl-impact-player-analysis)
+2. [Hawk-Eye Data Analysis](#2-hawk-eye-data-analysis)
+3. [IPL Player Profile 2024](#3-ipl-player-profile-2024)
+4. [Venue Performance Analysis](#4-venue-performance-analysis)
+5. [Player Analysis - T20 Tournaments (The Hundred, Men's & Women's)](#5-player-analysis---t20-tournaments-the-hundred-mens--womens)
+6. [Khiladi Index - Player Performance Ranking](#6-khiladi-index---player-performance-ranking)
+7. [T20 World Cup 2022 Analysis](#7-t20-world-cup-2022-analysis)
+8. [My IPL Predictions App](#8-my-ipl-predictions-app)
 
 ---
 
