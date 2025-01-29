@@ -97,6 +97,16 @@ Used **Hawk-Eye data** to analyze ball tracking, focusing on **bowling lengths, 
   <img src="assets/12K_4.jpeg" width="250">
 </p>
 
+<table>
+  <tr>
+    <td><img src="assets/12K_1.jpeg" width="250"></td>
+    <td><img src="assets/12K_2.jpeg" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/12K_3.jpeg" width="250"></td>
+    <td><img src="assets/12K_4.jpeg" width="250"></td>
+  </tr>
+</table>
 **Description**:  
 Designed a ranking system for IPL players using **historical and real-time data**. This index evaluated performance based on match context, strike rates, and economy rates.
 
