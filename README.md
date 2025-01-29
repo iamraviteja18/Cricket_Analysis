@@ -73,12 +73,6 @@ Analyzed pitch dynamics and venue-specific trends across tournaments like IPL, T
 ## **4. Hawk-Eye Data Analysis**
 
 **Description**:  
-# PitchMap Analysis
-<img src="assets/Pitch_map.jpeg" alt="PitchMap" width="400" height="600">
-
-# Runs vs Different Ball Speeds - Faf du Plessis
-<img src="assets/batter_vs_speeds.png" alt="Runs vs Ball Speeds" width="400">
-
 Used **Hawk-Eye data** to analyze ball tracking, focusing on **bowling lengths, line variations, and impact zones**. Automated workflows to process large datasets efficiently.  
 
 **Highlights**:
@@ -86,7 +80,8 @@ Used **Hawk-Eye data** to analyze ball tracking, focusing on **bowling lengths, 
 - Provided insights into powerplay wickets taken by top IPL bowlers.
 
 **Media**:  
-- ![Powerplay Wickets PitchMap](assets/hawk_eye_pitchmap.png) *(Replace with an actual screenshot)*  
+- <img src="assets/Pitch_map.jpeg" alt="PitchMap" width="400" height="600"> 
+- <img src="assets/batter_vs_speeds.png" alt="Runs vs Ball Speeds" width="400">
 
 **Tweets**:  
 - [PitchMap of Powerplay Wickets in IPL 2023](https://x.com/RajavarapuRavi/status/1654728322709069824?t=uSPlLA4Q_I3R2HH9Pkd0-Q&s=19)  
