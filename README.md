@@ -172,7 +172,8 @@ A detailed analysis of the **T20 World Cup 2022**, covering **batting trends, bo
 Built an **interactive app** to predict **IPL match outcomes** using machine learning models.
 
 **Tweets/Link**:   
-- [IPL Predictions App](https://x.com/RajavarapuRavi/status/1490228304430833669?t=LyK6L686KVTPnrjd1UisWQ&s=19)  
+- [IPL Predictions App](https://x.com/RajavarapuRavi/status/1490228304430833669?t=LyK6L686KVTPnrjd1UisWQ&s=19)
+- [Stats App](https://iplanalyze.streamlit.app/)
 
 ---
 
