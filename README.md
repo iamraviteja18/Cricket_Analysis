@@ -73,11 +73,11 @@ An interactive dashboard that provides **in-depth player profiles for IPL 2024**
 <table>
   <tr>
     <td><img src="assets/IPL_Profile_0.png" width="450"></td>
-    <td><img src="assets/IPL_Profile_1.png" width="450"></td>
+    <td><img src="assets/IPL_profile_1.png" width="450"></td>
   </tr>
   <tr>
-    <td><img src="assets/IPL_Profile_2.png" width="450"></td>
-    <td><img src="assets/IPL_Profile_3.png" width="450"></td>
+    <td><img src="assets/IPL_profile_2.png" width="450"></td>
+    <td><img src="assets/IPL_profile_3.png" width="450"></td>
   </tr>
   
 </table>
