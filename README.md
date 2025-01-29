@@ -41,6 +41,15 @@ Analyzed batter vs. bowler matchups and venue-specific trends in ODI World Cup m
 **Description**:  
 Built predictive models to evaluate **player impact in IPL matches**, factoring in match context, pressure situations, and opposition strength. Developed tools for exploring player stats interactively.
 
+<table>
+  <tr>
+    <td><img src="assets/Impact_player_performance1.png" width="450"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/Impact_player_performance" width="450"></td>
+  </tr>
+</table>
+
 **Highlights**:
 - Developed a **Streamlit app** to visualize player stats and matchups.  
 - Leveraged **XGBoost** and **Random Forests** for predictive modeling.
