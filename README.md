@@ -19,24 +19,7 @@ Whether it’s creating **interactive dashboards**, analyzing **player performan
 
 ---
 
-## **1. ODI World Cup - Player Matchup Analysis**
-
-**Description**:  
-Analyzed batter vs. bowler matchups and venue-specific trends in ODI World Cup matches to identify **key players in critical moments**. This project provided actionable insights for **analysts and broadcasters**.
-
-**Highlights**:
-- Created **player impact profiles** based on match context (bowler types, batting position).  
-- Developed visualizations showing batter/bowler matchups and venue statistics.  
-
-**Media**:
-- ![Player Matchup Visualization](assets/odi_worldcup_matchup.png) *(Replace with an actual screenshot)*
-
-**Links**:
-- [Interactive Dashboard](#) *(Add the link)*  
-
----
-
-## **2. IPL Player Impact Analysis**
+## **1. IPL Player Impact Analysis**
 
 **Description**:  
 Built predictive models to evaluate **player impact in IPL matches**, factoring in match context, pressure situations, and opposition strength. Developed tools for exploring player stats interactively.
@@ -147,6 +130,23 @@ A detailed analysis of the **T20 World Cup 2022**, covering batting trends, bowl
 
 **Links**:  
 - [T20 World Cup Thread](https://x.com/RajavarapuRavi/status/1594370747245346816?t=yBSiUUKVEyvnqZcT2LHCUQ&s=19)  
+
+---
+
+## **8. ODI World Cup - Player Matchup Analysis**
+
+**Description**:  
+Analyzed batter vs. bowler matchups and venue-specific trends in ODI World Cup matches to identify **key players in critical moments**. This project provided actionable insights for **analysts and broadcasters**.
+
+**Highlights**:
+- Created **player impact profiles** based on match context (bowler types, batting position).  
+- Developed visualizations showing batter/bowler matchups and venue statistics.  
+
+**Media**:
+- ![Player Matchup Visualization](assets/odi_worldcup_matchup.png) *(Replace with an actual screenshot)*
+
+**Links**:
+- [Interactive Dashboard](#) *(Add the link)*  
 
 ---
 
