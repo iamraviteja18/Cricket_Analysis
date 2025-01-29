@@ -144,34 +144,13 @@ A detailed analysis of the **T20 World Cup 2022**, covering **batting trends, bo
 
 ---
 
-## **8. T20 World Cup 2022 Analysis Thread**
+## **8. My IPL Predictions App** 🔮
 
 **Description**:  
-A detailed analysis of the **T20 World Cup 2022**, covering batting trends, bowling strategies, and team performance. This thread provided in-depth insights for analysts and fans alike.  
-
-**Highlights**:
-- Analyzed **match strategies** and team compositions.  
-- Visualized batting and bowling trends.
+Built an **interactive app** to predict **IPL match outcomes** using machine learning models.
 
 **Links**:  
-- [T20 World Cup Thread](https://x.com/RajavarapuRavi/status/1594370747245346816?t=yBSiUUKVEyvnqZcT2LHCUQ&s=19)  
-
----
-
-## **9. ODI World Cup - Player Matchup Analysis**
-
-**Description**:  
-Analyzed batter vs. bowler matchups and venue-specific trends in ODI World Cup matches to identify **key players in critical moments**. This project provided actionable insights for **analysts and broadcasters**.
-
-**Highlights**:
-- Created **player impact profiles** based on match context (bowler types, batting position).  
-- Developed visualizations showing batter/bowler matchups and venue statistics.  
-
-**Media**:
-- ![Player Matchup Visualization](assets/odi_worldcup_matchup.png) *(Replace with an actual screenshot)*
-
-**Links**:
-- [Interactive Dashboard](#) *(Add the link)*  
+- [IPL Predictions App](https://x.com/RajavarapuRavi/status/1490228304430833669?t=LyK6L686KVTPnrjd1UisWQ&s=19)  
 
 ---
 
