@@ -99,12 +99,12 @@ Used **Hawk-Eye data** to analyze ball tracking, focusing on **bowling lengths, 
 
 <table>
   <tr>
-    <td><img src="assets/12K_1.jpeg" width="250"></td>
-    <td><img src="assets/12K_2.jpeg" width="250"></td>
+    <td><img src="assets/12K_1.jpeg" width="500"></td>
+    <td><img src="assets/12K_2.jpeg" width="500"></td>
   </tr>
   <tr>
-    <td><img src="assets/12K_3.jpeg" width="250"></td>
-    <td><img src="assets/12K_4.jpeg" width="250"></td>
+    <td><img src="assets/12K_3.jpeg" width="500"></td>
+    <td><img src="assets/12K_4.jpeg" width="500"></td>
   </tr>
 </table>
 **Description**:  
