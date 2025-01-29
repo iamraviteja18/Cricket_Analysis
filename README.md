@@ -82,7 +82,7 @@ An interactive dashboard that provides **in-depth player profiles for IPL 2024**
 - [IPL Player Profile 2024](https://x.com/RajavarapuRavi/status/1770830457204076626)
 ---
 
-## **4. Venue Performance Analysis** 🌍
+## **4. Venue Performance Analysis**
 
 **Description**:  
 Analyzed **venue-specific trends** across **BBL, PSL, SAT20, T20 World Cup, IPL, and ODI World Cup**. This project provides insights into **high-scoring venues, bowler-friendly grounds, and match conditions**.
