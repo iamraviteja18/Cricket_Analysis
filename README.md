@@ -78,10 +78,10 @@ An interactive dashboard that provides **in-depth player profiles for IPL 2024**
 ## **4. Venue Performance Analysis** 🌍
 
 **Description**:  
-Analyzed **venue-specific trends** across **BBL, PSL, T20 World Cup, IPL, and ODI World Cup**. This project provides insights into **high-scoring venues, bowler-friendly grounds, and match conditions**.
+Analyzed **venue-specific trends** across **BBL, PSL, SAT20, T20 World Cup, IPL, and ODI World Cup**. This project provides insights into **high-scoring venues, bowler-friendly grounds, and match conditions**.
 
 **Highlights**:
-- **Venue analysis across multiple leagues** (BBL, PSL, WT20, IPL, ODI WC).  
+- **Venue analysis across multiple leagues** (BBL, PSL, SAT20, WT20, IPL, ODI WC).  
 - **Comparative insights** on run rates, pitch conditions, and match strategies.  
 
 **Media**:  
@@ -94,10 +94,10 @@ Analyzed **venue-specific trends** across **BBL, PSL, T20 World Cup, IPL, and OD
 
 ---
 
-## **5. Player Analysis - T20 Tournaments (The Hundred, Men's & Women's)** 🌟
+## **5. Player Analysis - T20 Tournaments (The Hundred, Men's & Women's, BBL, PSL, SAT20)**
 
 **Description**:  
-Player profile analysis for **The Hundred (Men's & Women's)** tournaments, featuring performance metrics, bowling impact, and batting efficiency.
+Player profile analysis for **The Hundred (Men's & Women's), BBL, PSL, SAT20** tournaments, featuring performance metrics, bowling impact, and batting efficiency.
 
 **Media**:  
 <table>
@@ -134,7 +134,7 @@ Designed a ranking system for IPL players using **historical and real-time data*
 
 ---
 
-## **7. T20 World Cup 2022 Analysis** 🌍
+## **7. T20 World Cup 2022 Analysis**
 
 **Description**:  
 A detailed analysis of the **T20 World Cup 2022**, covering **batting trends, bowling strategies, and team performance**.
@@ -144,7 +144,7 @@ A detailed analysis of the **T20 World Cup 2022**, covering **batting trends, bo
 
 ---
 
-## **8. My IPL Predictions App** 🔮
+## **8. My IPL Predictions App**
 
 **Description**:  
 Built an **interactive app** to predict **IPL match outcomes** using machine learning models.
