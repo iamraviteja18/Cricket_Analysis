@@ -65,8 +65,17 @@ Used **Hawk-Eye data** to analyze ball tracking, focusing on **bowling lengths, 
 - [PitchMap of Powerplay Wickets in IPL 2023](https://x.com/RajavarapuRavi/status/1654728322709069824?t=uSPlLA4Q_I3R2HH9Pkd0-Q&s=19)  
 
 ---
+## **3. IPL Player Profile 2024** 🏏
 
-## **3. Venue Performance Analysis**
+**Description**:  
+An interactive dashboard that provides **in-depth player profiles for IPL 2024**, covering key performance metrics, impact ratings, and matchup insights.
+
+**Link**:  
+- [IPL Player Profile 2024 Dashboard](https://statsappipl2024.streamlit.app/?embed_options=light_theme)  
+
+---
+
+## **4. Venue Performance Analysis**
 
 **Description**:  
 Analyzed pitch dynamics and venue-specific trends across tournaments like IPL, T20WC, and PSL. Identified **high-scoring venues**, bowler-friendly grounds, and weather impacts.  
