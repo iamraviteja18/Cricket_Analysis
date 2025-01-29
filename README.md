@@ -88,10 +88,12 @@ Used **Hawk-Eye data** to analyze ball tracking, focusing on **bowling lengths, 
 ---
 
 ## **5. Khiladi Index - Player Performance Ranking**
-![Mayank Agarwal](assets/12K_1.jpeg)
-![Ruturaj Gaikwad](assets/12K_2.jpeg)
-![Shreyas Iyer](assets/12K_3.jpeg)
-![Sanju Samson](assets/12K_4.jpeg)
+<p align="center">
+  <img src="assets/12K_1.jpeg" width="250">
+  <img src="assets/12K_2.jpeg" width="250">
+  <img src="assets/12K_3.jpeg" width="250">
+  <img src="assets/12K_4.jpeg" width="250">
+</p>
 
 **Description**:  
 Designed a ranking system for IPL players using **historical and real-time data**. This index evaluated performance based on match context, strike rates, and economy rates.
