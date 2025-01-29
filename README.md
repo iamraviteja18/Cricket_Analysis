@@ -84,6 +84,8 @@ An interactive dashboard that provides **in-depth player profiles for IPL 2024**
 **Link**:  
 - [IPL Player Profile 2024 Dashboard](https://statsappipl2024.streamlit.app/?embed_options=light_theme)  
 
+**Tweets**: 
+
 ---
 
 ## **4. Venue Performance Analysis** 🌍
@@ -165,7 +167,7 @@ A detailed analysis of the **T20 World Cup 2022**, covering **batting trends, bo
   </tr>
 </table>
 
-**Links**:  
+**Tweets/Link**:   
 - [T20 World Cup Thread](https://x.com/RajavarapuRavi/status/1594370747245346816?t=yBSiUUKVEyvnqZcT2LHCUQ&s=19)  
 
 ---
@@ -175,7 +177,7 @@ A detailed analysis of the **T20 World Cup 2022**, covering **batting trends, bo
 **Description**:  
 Built an **interactive app** to predict **IPL match outcomes** using machine learning models.
 
-**Links**:  
+**Tweets/Link**:   
 - [IPL Predictions App](https://x.com/RajavarapuRavi/status/1490228304430833669?t=LyK6L686KVTPnrjd1UisWQ&s=19)  
 
 ---
