@@ -37,12 +37,6 @@ Built predictive models to evaluate **player impact in IPL matches**, factoring 
 - Leveraged **XGBoost** and **Random Forests** for predictive modeling.
 - Submitted paper for this project [Research Paper at Indiana University](dm_paper.pdf) 
 
-**Media**:
-- ![Streamlit Dashboard](assets/ipl_player_dashboard.png) *(Replace with an actual screenshot)*
-
-**Links**:
-- [Streamlit App](https://x.com/RajavarapuRavi/status/1770830457204076626?t=uSPlLA4Q_I3R2HH9Pkd0-Q&s=19)  
-
 ---
 
 ## **2. Hawk-Eye Data Analysis**
