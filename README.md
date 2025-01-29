@@ -73,10 +73,10 @@ Analyzed pitch dynamics and venue-specific trends across tournaments like IPL, T
 ## **4. Hawk-Eye Data Analysis**
 
 **Description**:  
-## PitchMap Analysis
+# PitchMap Analysis
 <img src="assets/Pitch_map.jpeg" alt="PitchMap" width="400" height="600">
 
-## Runs vs Different Ball Speeds - Faf du Plessis
+# Runs vs Different Ball Speeds - Faf du Plessis
 <img src="assets/batter_vs_speeds.png" alt="Runs vs Ball Speeds" width="400">
 
 Used **Hawk-Eye data** to analyze ball tracking, focusing on **bowling lengths, line variations, and impact zones**. Automated workflows to process large datasets efficiently.  
