@@ -81,9 +81,9 @@ Used **Hawk-Eye data** to analyze ball tracking, focusing on **bowling lengths, 
 
 **Media**:  
 - Pitch Map PP Wickets in IPL 2023 - M Siraj & M Shami 
-<img src="assets/Pitch_map.jpeg" alt="PitchMap" width="400" height="600"> 
+  <img src="assets/Pitch_map.jpeg" alt="PitchMap" width="400" height="600"> 
 - Runs scored vs Ball speeds - Faf du Plessis
-<img src="assets/batter_vs_speeds.png" alt="Runs vs Ball Speeds" width="400">
+  <img src="assets/batter_vs_speeds.png" alt="Runs vs Ball Speeds" width="400">
 
 **Tweets**:  
 - [PitchMap of Powerplay Wickets in IPL 2023](https://x.com/RajavarapuRavi/status/1654728322709069824?t=uSPlLA4Q_I3R2HH9Pkd0-Q&s=19)  
