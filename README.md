@@ -8,8 +8,6 @@ Whether it’s creating **interactive dashboards**, analyzing **player performan
 
 
 > **Data Source:** Most of the data used in these projects comes from [CricSheet](https://cricsheet.org/).
-> **Tech Stack:** 96% of these projects were accomplished using only **open-source data**.
-
 ---
 
 ## **Table of Contents**
