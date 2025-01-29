@@ -44,24 +44,7 @@ Built predictive models to evaluate **player impact in IPL matches**, factoring 
 
 ---
 
-## **3. Venue Performance Analysis**
-
-**Description**:  
-Analyzed pitch dynamics and venue-specific trends across tournaments like IPL, T20WC, and PSL. Identified **high-scoring venues**, bowler-friendly grounds, and weather impacts.  
-
-**Highlights**:
-- Created dashboards comparing venue stats across tournaments.  
-- Delivered actionable insights for broadcasters during live matches.  
-
-**Media**:
-- ![Venue Trends Visualization](assets/venue_analysis.png) *(Replace with an actual screenshot)*  
-
-**Links**:
-- [Interactive Dashboard](#) *(Add the link)*  
-
----
-
-## **4. Hawk-Eye Data Analysis**
+## **2. Hawk-Eye Data Analysis**
 
 **Description**:  
 Used **Hawk-Eye data** to analyze ball tracking, focusing on **bowling lengths, line variations, and impact zones**. Automated workflows to process large datasets efficiently.  
@@ -79,6 +62,23 @@ Used **Hawk-Eye data** to analyze ball tracking, focusing on **bowling lengths, 
 
 **Tweets**:  
 - [PitchMap of Powerplay Wickets in IPL 2023](https://x.com/RajavarapuRavi/status/1654728322709069824?t=uSPlLA4Q_I3R2HH9Pkd0-Q&s=19)  
+
+---
+
+## **3. Venue Performance Analysis**
+
+**Description**:  
+Analyzed pitch dynamics and venue-specific trends across tournaments like IPL, T20WC, and PSL. Identified **high-scoring venues**, bowler-friendly grounds, and weather impacts.  
+
+**Highlights**:
+- Created dashboards comparing venue stats across tournaments.  
+- Delivered actionable insights for broadcasters during live matches.  
+
+**Media**:
+- ![Venue Trends Visualization](assets/venue_analysis.png) *(Replace with an actual screenshot)*  
+
+**Links**:
+- [Interactive Dashboard](#) *(Add the link)*  
 
 ---
 
