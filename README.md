@@ -74,7 +74,7 @@ Analyzed pitch dynamics and venue-specific trends across tournaments like IPL, T
 
 **Description**:  
 ## PitchMap Analysis
-<img src="assets/Pitch_map.jpeg" alt="PitchMap" width="500">
+<img src="assets/Pitch_map.jpeg" alt="PitchMap" width="500" height='800'>
 
 ## Runs vs Different Ball Speeds - Faf du Plessis
 <img src="assets/batter_vs_speeds.png" alt="Runs vs Ball Speeds" width="500">
