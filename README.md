@@ -36,7 +36,7 @@ Built predictive models to evaluate **player impact in IPL matches**, factoring 
 **Highlights**:
 - Developed a **Streamlit app** to visualize player stats and matchups.  
 - Leveraged **XGBoost** and **Random Forests** for predictive modeling.
-- Submitted paper for this project [Research Paper at Indiana University](dm_paper.pdf) 
+- Submitted paper for this project [Research Paper at Indiana University](DM_FINAL_PAPER_review.pdf) 
 
 ---
 
