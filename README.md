@@ -2,10 +2,9 @@
 
 # 🏏 **Cricket Analytics Portfolio**
 
-Welcome to my Cricket Analytics Portfolio! This repository highlights my work in **cricket data analysis, predictive modeling, and visualization** for tournaments like **IPL, T20 World Cup, PSL, and ODI World Cup**. I have combined **data science expertise** and **cricketing knowledge** to develop insights and tools for analysts, broadcasters, and cricket enthusiasts.  
+Welcome to my Cricket Analytics Portfolio! I am Ravi Teja Rajavarapu This repository highlights my work in **cricket data analysis, predictive modeling, and visualization** for tournaments like **IPL, T20 World Cup, PSL, and ODI World Cup**. I have combined **data science expertise** and **cricketing knowledge** to develop insights and tools for analysts, broadcasters, and cricket enthusiasts.  
 
 Whether it’s creating **interactive dashboards**, analyzing **player performance**, or building predictive models, my projects showcase my ability to extract actionable insights and develop solutions that meet **real-world cricketing challenges**.
-
 
 > **Data Source:** Most of the data used in these projects comes from [CricSheet](https://cricsheet.org/).
 ---
