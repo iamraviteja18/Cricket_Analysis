@@ -79,7 +79,6 @@ An interactive dashboard that provides **in-depth player profiles for IPL 2024**
     <td><img src="assets/IPL_profile_2.png" width="450"></td>
     <td><img src="assets/IPL_profile_3.png" width="450"></td>
   </tr>
-  
 </table>
 
 **Link**:  
@@ -100,6 +99,10 @@ Analyzed **venue-specific trends** across **BBL, PSL, SAT20, T20 World Cup, IPL,
 <table>
   <tr>
     <td><img src="assets/venue_T20_wc.jpeg" width="450"></td>
+    <td><img src="assets/venue_psl.png" width="450"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/venue_wc_2022_pack.jpeg" width="450"></td>
     <td><img src="assets/Venue_T20WC.jpeg" width="450"></td>
   </tr>
 </table>
