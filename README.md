@@ -75,24 +75,42 @@ An interactive dashboard that provides **in-depth player profiles for IPL 2024**
 
 ---
 
-## **4. Venue Performance Analysis**
+## **4. Venue Performance Analysis** 🌍
 
 **Description**:  
-Analyzed pitch dynamics and venue-specific trends across tournaments like IPL, T20WC, and PSL. Identified **high-scoring venues**, bowler-friendly grounds, and weather impacts.  
+Analyzed **venue-specific trends** across **BBL, PSL, T20 World Cup, IPL, and ODI World Cup**. This project provides insights into **high-scoring venues, bowler-friendly grounds, and match conditions**.
 
 **Highlights**:
-- Created dashboards comparing venue stats across tournaments.  
-- Delivered actionable insights for broadcasters during live matches.  
+- **Venue analysis across multiple leagues** (BBL, PSL, WT20, IPL, ODI WC).  
+- **Comparative insights** on run rates, pitch conditions, and match strategies.  
 
-**Media**:
-- ![Venue Trends Visualization](assets/venue_analysis.png) *(Replace with an actual screenshot)*  
-
-**Links**:
-- [Interactive Dashboard](#) *(Add the link)*  
+**Media**:  
+<table>
+  <tr>
+    <td><img src="assets/venue_T20_wc.jpeg" width="450"></td>
+    <td><img src="assets/Venue_T20WC.jpeg" width="450"></td>
+  </tr>
+</table>
 
 ---
 
-## **5. Khiladi Index - Player Performance Ranking**
+## **5. Player Analysis - T20 Tournaments (The Hundred, Men's & Women's)** 🌟
+
+**Description**:  
+Player profile analysis for **The Hundred (Men's & Women's)** tournaments, featuring performance metrics, bowling impact, and batting efficiency.
+
+**Media**:  
+<table>
+  <tr>
+    <td><img src="assets/the_hundred_1.jpeg" width="450"></td>
+    <td><img src="assets/the_hundred_2.jpeg" width="450"></td>
+  </tr>
+</table>
+
+
+---
+
+## **6. Khiladi Index - Player Performance Ranking**
 
 <table>
   <tr>
@@ -116,7 +134,7 @@ Designed a ranking system for IPL players using **historical and real-time data*
 
 ---
 
-## **6. My IPL Predictions App**
+## **7. My IPL Predictions App**
 
 **Description**:  
 Built an **interactive app** to predict IPL match outcomes using machine learning models. The app allowed users to explore matchups and player predictions dynamically.  
@@ -129,7 +147,7 @@ Built an **interactive app** to predict IPL match outcomes using machine learnin
 
 ---
 
-## **7. T20 World Cup 2022 Analysis Thread**
+## **8. T20 World Cup 2022 Analysis Thread**
 
 **Description**:  
 A detailed analysis of the **T20 World Cup 2022**, covering batting trends, bowling strategies, and team performance. This thread provided in-depth insights for analysts and fans alike.  
@@ -143,7 +161,7 @@ A detailed analysis of the **T20 World Cup 2022**, covering batting trends, bowl
 
 ---
 
-## **8. ODI World Cup - Player Matchup Analysis**
+## **9. ODI World Cup - Player Matchup Analysis**
 
 **Description**:  
 Analyzed batter vs. bowler matchups and venue-specific trends in ODI World Cup matches to identify **key players in critical moments**. This project provided actionable insights for **analysts and broadcasters**.
