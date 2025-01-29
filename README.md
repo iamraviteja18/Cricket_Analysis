@@ -44,9 +44,7 @@ Built predictive models to evaluate **player impact in IPL matches**, factoring 
 <table>
   <tr>
     <td><img src="assets/Impact_player_performance1.png" width="450"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/Impact_player_performance" width="450"></td>
+    <td><img src="assets/Impact_player_performance.png" width="450"></td>
   </tr>
 </table>
 
