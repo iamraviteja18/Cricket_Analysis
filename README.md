@@ -6,6 +6,10 @@ Welcome to my Cricket Analytics Portfolio! This repository highlights my work in
 
 Whether it’s creating **interactive dashboards**, analyzing **player performance**, or building predictive models, my projects showcase my ability to extract actionable insights and develop solutions that meet **real-world cricketing challenges**.
 
+
+> **Data Source:** Most of the data used in these projects comes from [CricSheet](https://cricsheet.org/).
+> **Tech Stack:** 96% of these projects were accomplished using only **open-source data**.
+
 ---
 
 ## **Table of Contents**
