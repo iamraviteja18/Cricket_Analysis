@@ -134,16 +134,13 @@ Designed a ranking system for IPL players using **historical and real-time data*
 
 ---
 
-## **7. My IPL Predictions App**
+## **7. T20 World Cup 2022 Analysis** 🌍
 
 **Description**:  
-Built an **interactive app** to predict IPL match outcomes using machine learning models. The app allowed users to explore matchups and player predictions dynamically.  
-
-**Highlights**:
-- Integrated predictive algorithms for player and team performance.  
+A detailed analysis of the **T20 World Cup 2022**, covering **batting trends, bowling strategies, and team performance**.
 
 **Links**:  
-- [IPL Predictions App](https://x.com/RajavarapuRavi/status/1490228304430833669?t=LyK6L686KVTPnrjd1UisWQ&s=19)  
+- [T20 World Cup Thread](https://x.com/RajavarapuRavi/status/1594370747245346816?t=yBSiUUKVEyvnqZcT2LHCUQ&s=19)  
 
 ---
 
