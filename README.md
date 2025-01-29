@@ -79,7 +79,7 @@ An interactive dashboard that provides **in-depth player profiles for IPL 2024**
 - [IPL Player Profile 2024 Dashboard](https://statsappipl2024.streamlit.app/?embed_options=light_theme)  
 
 **Tweets**: 
-
+- [IPL Player Profile 2024](https://x.com/RajavarapuRavi/status/1770830457204076626)
 ---
 
 ## **4. Venue Performance Analysis** 🌍
