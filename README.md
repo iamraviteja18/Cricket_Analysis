@@ -143,10 +143,6 @@ Designed a ranking system for IPL players using **historical and real-time data*
 **Highlights**:
 - Developed filters for dynamic matchups (e.g., batter vs. left-arm pace).  
 - Ranked players based on performance under pressure.
-
-**Media**:
-- ![Khiladi Index Visualization](assets/khiladi_index.png) *(Replace with an actual screenshot)*  
-
 ---
 
 ## **7. T20 World Cup 2022 Analysis**
